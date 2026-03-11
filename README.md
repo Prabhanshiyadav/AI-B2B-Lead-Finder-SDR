@@ -5,6 +5,13 @@ An AI-powered lead generation application that helps startups and sales teams di
 ## Live App
 https://lead-gen-205421.withmattr.app
 
+## App Preview
+
+![Dashboard](dashboard.png)
+![Results](results.png)
+![History](History.png)
+
+
 ## Features
 - B2B Lead Generation
 - AI Cold Email Generator
